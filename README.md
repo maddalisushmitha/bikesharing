@@ -6,10 +6,6 @@ To show from Tableau Visualization how profitable bike-sharing program in Des Mo
 
 ## Results
 
-- At this location more users can be found to start the bike trip
-
-![S](https://github.com/maddalisushmitha/bikesharing/blob/main/images_for_readme/Top%20Starting%20Location.png)
-
 - Almost everyone use bikes for only foran hour 
 
 ![CU](https://github.com/maddalisushmitha/bikesharing/blob/main/images_for_readme/Checkout%20Times%20for%20Users.png)
@@ -30,12 +26,20 @@ To show from Tableau Visualization how profitable bike-sharing program in Des Mo
 
 ![UTWG](https://github.com/maddalisushmitha/bikesharing/blob/main/images_for_readme/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
-- At this location more users can be found to to return the  bike 
-
-![E](https://github.com/maddalisushmitha/bikesharing/blob/main/images_for_readme/Top%20Ending%20Locations.png)
 
 
 ## Summary
 
+- Targeting Starting and ending popular locations so that the concentration of users are more.
 
+- At this location more users can be found to start the bike trip
+
+![S](https://github.com/maddalisushmitha/bikesharing/blob/main/images_for_readme/Top%20Starting%20Location.png)
+
+
+- At this location more users can be found to to return the  bike 
+
+![E](https://github.com/maddalisushmitha/bikesharing/blob/main/images_for_readme/Top%20Ending%20Locations.png)
+
+- We can look at male users and give them promotions also incerase the subscriptions by giving incentives. 
 
