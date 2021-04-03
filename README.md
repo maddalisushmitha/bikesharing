@@ -32,12 +32,12 @@ To show from Tableau Visualization how profitable bike-sharing program in Des Mo
 
 - Targeting Starting and ending popular locations so that the concentration of users are more.
 
-- At this location more users can be found to start the bike trip
+### At this location more users can be found to start the bike trip
 
 ![S](https://github.com/maddalisushmitha/bikesharing/blob/main/images_for_readme/Top%20Starting%20Location.png)
 
 
-- At this location more users can be found to to return the  bike 
+### At this location more users can be found to to return the  bike 
 
 ![E](https://github.com/maddalisushmitha/bikesharing/blob/main/images_for_readme/Top%20Ending%20Locations.png)
 
